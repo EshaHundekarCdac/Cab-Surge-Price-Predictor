@@ -103,7 +103,6 @@ easydict==1.13
 editdistance==0.8.1
 eerepr==0.1.2
 einops==0.8.2
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 entrypoints==0.4
 esda==2.9.0
 et_xmlfile==2.0.0
@@ -133,7 +132,6 @@ fsspec==2025.3.0
 future==1.0.0
 gast==0.7.0
 gcsfs==2025.3.0
-GDAL==3.8.4
 gdown==5.2.2
 geemap==0.38.0
 geocoder==1.38.1
